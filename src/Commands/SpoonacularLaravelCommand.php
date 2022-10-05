@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Rabol\SpoonacularLaravel\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SpoonacularLaravelCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'spoonacular-laravel';
 
     public $description = 'My command';
 
