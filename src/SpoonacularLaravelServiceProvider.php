@@ -2,9 +2,9 @@
 
 namespace Rabol\SpoonacularLaravel;
 
+use Rabol\SpoonacularLaravel\Commands\SpoonacularLaravelCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Rabol\SpoonacularLaravel\Commands\SpoonacularLaravelCommand;
 
 class SpoonacularLaravelServiceProvider extends PackageServiceProvider
 {
